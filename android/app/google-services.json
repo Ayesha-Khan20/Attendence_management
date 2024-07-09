@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968468854615",
+    "project_id": "covid-patient-84ea8",
+    "storage_bucket": "covid-patient-84ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968468854615:android:5818d2c4dbd8c6c6ca3012",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968468854615-9vembpfpe1um5oksppeonnpor7nr8jdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqQ6DKEm__w_qd6g-5IPp_9Y6vlz0FOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968468854615-9vembpfpe1um5oksppeonnpor7nr8jdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
